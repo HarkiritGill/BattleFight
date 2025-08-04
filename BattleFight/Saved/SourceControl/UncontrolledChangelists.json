@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/BattleFight/BattleFight/Content/Levels/Metro_Rushhour.umap",
+				"E:/BattleFight/BattleFight/Content/Train.uasset",
+				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/Jme_-_Test_Me.uasset",
+				"E:/BattleFight/BattleFight/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/BattleFight/BattleFight/Content/Levels/NewStreet_Rushhour_BuiltData.uasset",
+				"E:/BattleFight/BattleFight/Content/Levels/NewStreet_Rushhour.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Metro_Rushhour_BuiltData.uasset",
+				"E:/BattleFight/BattleFight/Content/Levels/WrongPostCode.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Downtown_FireFight.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Proper_Mandem_Lab.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Research_Lab_2479.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Wrong_PostCode.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Takin_Territory.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Our_PostCode.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/On_The_Sesh.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Towns_Ours.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Pier_Showdown.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/OnSite_Overtime.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Bit_Dodgy_innit.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Council_Flats.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Club.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Markets.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/ConstructionYard.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Warehouse.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Mandems_Lab.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/GangWar.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/CityCentre.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Scrapyard.umap",
+				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/Dirtee_Disco_-_Dizzee_Rascal__KARAOKE_.uasset",
+				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/Dizzee_Rascal_-_Bassline_Junkie_Instrumental.uasset",
+				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/Get_Hyper_Droideka_Ft__KSI_Instrumental.uasset",
+				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/JME_-_Man_Don_t_Care_Instrumental.uasset",
+				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/Kahn_-_Abattoir.uasset",
+				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/Starkey_-_Prism.uasset",
+				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/Skream_-_Dark_Side_Of_Life.uasset",
+				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/Going_to_the_Gym__Instrumental_.uasset",
+				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/TSURUDA__-_FUBAR__Official_Audio_.uasset",
+				"E:/BattleFight/BattleFight/Content/Levels/Hotel.umap",
+				"E:/BattleFight/BattleFight/Content/Levels/Market.umap",
+				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/Escher_-_Oxossi.uasset",
+				"E:/BattleFight/BattleFight/Content/Levels/Hotel_Lobby.umap"
+			]
+		}
+	]
+}
