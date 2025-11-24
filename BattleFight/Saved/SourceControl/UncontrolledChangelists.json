@@ -5,8 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Github Projects/BattleFight/BattleFight/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/Github Projects/BattleFight/BattleFight/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Github Projects/BattleFight/BattleFight/Content/Levels/CityCentre.umap",
+				"E:/Github Projects/BattleFight/BattleFight/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/BattleFight/BattleFight/Content/Levels/Metro_Rushhour.umap",
 				"E:/BattleFight/BattleFight/Content/Train.uasset",
 				"E:/BattleFight/BattleFight/Content/Audio/LevelAudio/Jme_-_Test_Me.uasset",
