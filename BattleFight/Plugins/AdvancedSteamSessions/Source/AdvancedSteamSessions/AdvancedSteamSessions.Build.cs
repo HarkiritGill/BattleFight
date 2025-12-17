@@ -5,9 +5,6 @@ public class AdvancedSteamSessions : ModuleRules
 {
     public AdvancedSteamSessions(ReadOnlyTargetRules Target) : base(Target)
     {
-        DefaultBuildSettings = BuildSettingsVersion.Latest;
-        IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
-
         PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
         //bEnforceIWYU = true;
 
@@ -19,7 +16,6 @@ public class AdvancedSteamSessions : ModuleRules
         if ((Target.Platform == UnrealTargetPlatform.Win64) || (Target.Platform == UnrealTargetPlatform.Linux) || (Target.Platform == UnrealTargetPlatform.Mac))
         {
             PublicDependencyModuleNames.AddRange(new string[] { "SteamShared", "Steamworks", "OnlineSubsystemSteam" });
-            AddEngineThirdPartyPrivateStaticDependencies(Target, "Steamworks");
             //PublicIncludePaths.AddRange(new string[] { "../Plugins/Online/OnlineSubsystemSteam/Source/Private" });// This is dumb but it isn't very open
         }
     }
